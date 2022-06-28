@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "active": true,
+      "email": "l@l.com",
+      "role": 1
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "active": true,
+      "email": "e@e.com",
+      "role": 1
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "active": true,
+      "email": "c@c.com",
+      "role": 1
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "active": true,
+      "email": "p@p.com",
+      "role": 2
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "active": true,
+      "email": "ch@ch.com",
+      "role": 2
+    },
+    {
+      "id": 6,
+      "name": "Dennis Schulist",
+      "active": true,
+      "email": "d@d.com",
+      "role": 2
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "type": "STUDENT"
+    },
+    {
+      "id": 2,
+      "type": "TEACHER"
+    },
+    {
+      "id": 3,
+      "type": "COORDINATOR"
+    }
+  ]
+}
